@@ -9,3 +9,4 @@ My name is Hamza & I'm a React Developer
 
 ### Connect with me:
 
+<a href="https://www.linkedin.com/in/syed-muhammad-hamza-8720b5163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-hl" height="30" width="40" /></a>
