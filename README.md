@@ -3,7 +3,7 @@ My name is Hamza & I'm a React Developer
 
 ### :fire: My Stats :
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-HL&" alt="hamza-HL" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-HL&theme=dark&background=000000" alt="hamza-HL" /></p>
 
 
 ## &#x1f4c8; GitHub Stats
