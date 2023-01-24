@@ -15,9 +15,8 @@ My name is Muhammad Yassar Farooq & I'm a Full Stack Developer
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/myf1996/myf1996">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=myf1996&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yassar Farooq GitHub Stats" />
-</a>
+https://github-readme-streak-stats.herokuapp.com/?user=hamza-HL
+
 
 
 [instagram]: https://www.instagram.com/myf_1996/
