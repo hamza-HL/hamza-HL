@@ -9,6 +9,10 @@ My name is Hamza & I'm a React Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-HL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anassiddiqui001&show_icons=true&locale=en&layout=compact" alt="anassiddiqui001" />
+</p>
+
 
 ### Connect with me:
 
