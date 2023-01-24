@@ -11,10 +11,6 @@ My name is Hamza & I'm a React Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-HL&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-HL&show_icons=true&locale=en&layout=compact" alt="hamza-HL" />
-</p>
-
 
 ### Connect with me:
 
