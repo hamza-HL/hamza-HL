@@ -1,4 +1,4 @@
-My name is Muhammad Yassar Farooq & I'm a Full Stack Developer 
+My name is Hamza & I'm a React Developer 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=color=2bbc8a)
@@ -25,13 +25,10 @@ https://github-readme-streak-stats.herokuapp.com/?user=hamza-HL
 </a>
 
 
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-HL&show_icons=true&locale=en&layout=compact" alt="hamza-HL" />
+</p>
 
-[instagram]: https://www.instagram.com/myf_1996/
-[linkedin]: https://www.linkedin.com/in/muhammad-yassar-farooq-b55a78185/
-[facebook]: https://www.facebook.com/muhammadyassar.farooq
 
 ### Connect with me:
 
-[<img align="left" alt="myf1996 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="myf1996 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="myf1996 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
