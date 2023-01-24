@@ -13,7 +13,7 @@ My name is Muhammad Yassar Farooq & I'm a Full Stack Developer
 
 
 
-## &#x1f4c8; GitHub Stats
+### :fire: My Stats :
 
 https://github-readme-streak-stats.herokuapp.com/?user=hamza-HL
 
